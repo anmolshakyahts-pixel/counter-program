@@ -23,3 +23,25 @@ Counter-Program/
 ├── style.css
 ├── index.js
 └── README.md
+
+🚀 How to Run
+
+Clone the repository
+git clone <repository-url>
+Open main.html in your browser
+Start clicking the buttons 🎯
+
+📚 Learning Outcomes
+
+JavaScript DOM manipulation
+Handling button click events
+Updating UI dynamically
+Basic CSS transitions
+
+🔮 Future Enhancements
+
+Add min/max counter limits
+Store value using localStorage
+Add animations
+
+Improve mobile responsiveness
